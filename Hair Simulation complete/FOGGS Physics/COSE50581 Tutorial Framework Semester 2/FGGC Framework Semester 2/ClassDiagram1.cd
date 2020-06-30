@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Appearance" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAJEAAGAIAEgAAAkAAAAAAAgAQAAAACFAAAAAAAAA=</HashCode>
+      <FileName>Appearance.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Application" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SCykCCJCXFuAA5oEMmEEIwIBiAACALOGkAbkBOJAQQ4=</HashCode>
+      <FileName>Application.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAQOAQACACAAQAgAQAAAIAIKgAAAA0SAACABAIIAQQA=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTimer" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAgAACAABAAJAAAIAgAAAAAAAAUAIAAAAAAAQQA=</HashCode>
+      <FileName>GameTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HairStrandModel">
+    <Position X="1.5" Y="0.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QASCgAAAEAKEBBCCEQGMAAGgjQGAUECAUBIIgYIAITg=</HashCode>
+      <FileName>HairStandModel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleForceRegistry" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAACAAAABIAAA=</HashCode>
+      <FileName>ParticleForceRegistry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transform" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAEECCAAAIQAABAAAUQAAABAggAIEIAggAAgOA=</HashCode>
+      <FileName>Transform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Geometry" Collapsed="true">
+    <Position X="21.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAABAAIAQAAAAACAAAAAA=</HashCode>
+      <FileName>Appearance.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Material" Collapsed="true">
+    <Position X="20" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAABAAAAABAAAA=</HashCode>
+      <FileName>Appearance.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SimpleVertex" Collapsed="true">
+    <Position X="20" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Application.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SurfaceInfo" Collapsed="true">
+    <Position X="21.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>ConstantBuffers.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Light" Collapsed="true">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAYAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>ConstantBuffers.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ConstantBuffer" Collapsed="true">
+    <Position X="18.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAEBAAAAAAAAQAAAAAAAIBAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ConstantBuffers.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Vertex" Collapsed="true">
+    <Position X="21" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACIAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ConstantBuffers.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PosVertex" Collapsed="true">
+    <Position X="18.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConstantBuffers.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PackedVertex" Collapsed="true">
+    <Position X="19" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACIAAAAAIAgAAAAAAA=</HashCode>
+      <FileName>ConstantBuffers.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ParticleStruct">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIiAAAAACAIAAAAAAAAAAIAAAUABAAQAAAQAAAAAAAA=</HashCode>
+      <FileName>ConstantBuffers.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="HeadConstantBuffer">
+    <Position X="5.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAEAAAAAAgAAAIAEAAAQAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ConstantBuffers.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
